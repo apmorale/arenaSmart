@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "690581702332",
+    "firebase_url": "https://control-iot-ec-f4ff1-default-rtdb.firebaseio.com",
+    "project_id": "control-iot-ec-f4ff1",
+    "storage_bucket": "control-iot-ec-f4ff1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690581702332:android:153d856e80f608294632b9",
+        "android_client_info": {
+          "package_name": "com.example.areneropro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBju7sVbB3N-qTY-FmR355xH5vGKLwJcw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
